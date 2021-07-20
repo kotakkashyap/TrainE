@@ -1,0 +1,92 @@
+.container
+{
+    padding: 5% 15%;
+    width: 100%;
+}
+h3
+{
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+input[type="text"],select,label,textarea
+{
+    width: 100%;
+    display: block;
+    min-height: 50px;
+}
+select
+{
+    font-size: 15px;
+}
+label
+{
+    font-size:18px; 
+    margin-top: 20px;
+    margin-bottom: -10px;
+    
+}
+input[type="text"],select,textarea
+{
+    margin-bottom: 0px;
+}
+input[type="submit"]
+{
+    margin-top: 25px;
+    background: #fff;
+    color: #673ac7;
+    border: none;
+    width: 100px;
+    padding: 10px;
+    border: solid 1px #673ac7;
+    font-family: sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 5px;
+        
+}
+input[type="submit"]:hover
+{
+    background: #673ac7;
+    color: #fff;
+    
+    transition: background .7s;
+    transition: color .7s;
+}
+h3
+{
+    margin-bottom: 0px;
+}
+h4
+{
+    font-size: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

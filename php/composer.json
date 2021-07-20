@@ -1,0 +1,15 @@
+{
+    "name": "pthreads",
+    "version": "3.1.6",
+    "type": "extension",
+    "license": [
+        "PHP License"
+    ],
+    "authors": [
+        {
+            "name": "Joe Watkins",
+            "email": "krakjoe@php.net"
+        }
+    ],
+    "description": "Threading API"
+}
